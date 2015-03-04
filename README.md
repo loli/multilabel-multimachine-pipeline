@@ -1,4 +1,3 @@
-neuropipeline
-=============
+multilabel-multimachine-pipeline
+================================
 a saveguard
-# multilabel-multimachine-pipeline
